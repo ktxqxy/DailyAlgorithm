@@ -1,1 +1,1 @@
-# DailyAlgorithm
+# daily algorithm
